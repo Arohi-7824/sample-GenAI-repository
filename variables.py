@@ -16,18 +16,18 @@ myage1=35
 #my var=35
 
 #Assignments
-a,b,c = "Dennis","Manjunath","Sneha"
+a,b,c = "Arohi","Diksha","Sneha"
 print(a)
 print(b)
 print(c)
 
-d=e=f = "Dennis"
+d=e=f = "Singh"
 print(d)
 print(e)
 print(f)
 
-name="dennis"
-age = 35
+name="Arohi"
+age = 21
 height = 5.6
 is_married=True
 
