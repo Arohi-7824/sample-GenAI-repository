@@ -1,0 +1,5 @@
+myvenv_a/
+__pycache__/
+*.pyc
+ipynb_checkpoints/
+*.log
