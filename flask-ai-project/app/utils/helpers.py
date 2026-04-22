@@ -43,4 +43,5 @@ def format_response(data, status=200):
     }
     if message:
         response["message"]=message
+    
     return message
